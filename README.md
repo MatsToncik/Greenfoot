@@ -2,6 +2,8 @@
 
 Überarbeiteter und erweiterter Code für die Aufgabe der Gruppe C!
 
+Der Rover ist durch die überarbeitete Version in der Lage, in einer beliebigen Ecke zu starten um eine beliebige Zielecke zu erreichen.
+
 Es muss eine Start- und eine Zielecke angegeben werden.
 Mögliche Start- und Zielecken sind: "obenLinks" "obenRechts" "untenLinks" "untenRechts"
 
